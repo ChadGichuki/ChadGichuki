@@ -8,3 +8,4 @@
 
 - ⚡ Fun fact: I am both a Civil and Software Engineer!
 
+[![@richardgichuki's Holopin board](https://holopin.io/api/user/board?user=richardgichuki)](https://holopin.io/@richardgichuki)
